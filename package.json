@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "is-svg": "^1.0.0",
-    "svgo": "^0.5.0",
+    "svgo": "git+https://github.com/Rabbit-Inc/svgo#rb_01",
     "through2": "^0.6.1"
   },
   "devDependencies": {
